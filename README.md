@@ -1,4 +1,4 @@
-# Sapere Aude 💡
+# < font colour = 'DodgerBlue' Sapere Aude 💡 >
 
   *To the skill that scales*
   
