@@ -1,4 +1,3 @@
-< span style = "color:blue" >
 # Sapere Aude 💡 </span>
 
   *To the skill that scales*
