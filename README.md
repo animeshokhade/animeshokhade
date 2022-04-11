@@ -14,7 +14,7 @@
   
   *To the mark that matches*
   
-  *the target of triumph;*
+  *the threshold of triumph;*
   
   *To the cat that catches*
   
