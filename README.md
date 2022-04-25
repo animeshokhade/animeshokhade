@@ -54,7 +54,7 @@
   
   *To the community that codes*
   
-  *the ether of ethereum, I say,*
+  *the ambition of AI, I say,*
   
   **Sapere Aude 💡 Sapere Aude 💡**
   
