@@ -58,10 +58,7 @@
   
   **Sapere Aude 💡 Sapere Aude 💡**
   
-  <br><br><br><br><br>
   
-  ![This is an image](https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,t_base_params,w_820/v1629240322/content-items/008/832/440/Sapere-Aude-art-work-insta-original.jpg?1629240322)
-
 
   
   
