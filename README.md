@@ -8,7 +8,7 @@
   
   *the artistry of an artist,*
   
-  **Sapere Aude 💡**
+  **I say, Sapere Aude 💡**
   
   <br>
   
@@ -20,7 +20,7 @@
   
   *the conundrums of clients,*
   
-  **Sapere Aude 💡**
+  **I say, Sapere Aude 💡**
   
   <br>
   
@@ -32,7 +32,7 @@
   
   *the serendipity in stacks,*
   
-  **Sapere Aude 💡**
+  **I say, Sapere Aude 💡**
   
   <br>
   
@@ -44,7 +44,7 @@
   
   *the embrace of engineers,*
   
-  **Sapere Aude 💡**
+  **I say, Sapere Aude 💡**
   
   <br>
   
@@ -56,7 +56,7 @@
   
   *the ambition of AI,*
   
-  **Sapere Aude 💡**
+  **I say, Sapere Aude 💡**
   
   
 
