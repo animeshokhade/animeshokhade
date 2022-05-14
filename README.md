@@ -20,7 +20,7 @@
   
   *the conundrums of clients, I say,*
   
-  **Sapere Aude 💡 Sapere Aude 💡**
+  **Sapere Aude 💡**
   
   <br>
   
@@ -32,7 +32,7 @@
   
   *the serendipity in stacks, I say,*
   
-  **Sapere Aude 💡 Sapere Aude 💡**
+  **Sapere Aude 💡**
   
   <br>
   
@@ -44,7 +44,7 @@
   
   *the embrace of engineers, I say,*
   
-  **Sapere Aude 💡 Sapere Aude 💡**
+  **Sapere Aude 💡**
   
   <br>
   
@@ -56,7 +56,7 @@
   
   *the ambition of AI, I say,*
   
-  **Sapere Aude 💡 Sapere Aude 💡**
+  **Sapere Aude 💡**
   
   
 
