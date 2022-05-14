@@ -8,7 +8,7 @@
   
   *the artistry of an artist, I say,*
   
-  **Sapere Aude 💡 Sapere Aude 💡**
+  **Sapere Aude 💡**
   
   <br>
   
