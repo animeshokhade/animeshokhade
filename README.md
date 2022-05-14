@@ -6,7 +6,7 @@
   
   *To the craft that craves*
   
-  *the artistry of an artist, I say,*
+  *the artistry of an artist,*
   
   **Sapere Aude 💡**
   
@@ -18,7 +18,7 @@
   
   *To the cat that catches*
   
-  *the conundrums of clients, I say,*
+  *the conundrums of clients,*
   
   **Sapere Aude 💡**
   
@@ -30,7 +30,7 @@
   
   *To the flags that furl*
   
-  *the serendipity in stacks, I say,*
+  *the serendipity in stacks,*
   
   **Sapere Aude 💡**
   
@@ -42,7 +42,7 @@
   
   *To the ints that long*
   
-  *the embrace of engineers, I say,*
+  *the embrace of engineers,*
   
   **Sapere Aude 💡**
   
@@ -54,7 +54,7 @@
   
   *To the community that codes*
   
-  *the ambition of AI, I say,*
+  *the ambition of AI,*
   
   **Sapere Aude 💡**
   
