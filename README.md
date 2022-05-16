@@ -1,5 +1,1 @@
-![Sapere Aude](https://user-images.githubusercontent.com/96253880/168560024-437a869b-14b1-4275-970d-4aba0b4a574a.png)
-
-  
-  
-  
+![Sapere Aude](https://user-images.githubusercontent.com/96253880/168561579-a2977b0e-cd41-4221-8842-46a2fb4146a1.png)
