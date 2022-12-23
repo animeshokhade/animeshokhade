@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Software Development and Machine Learning technologies  
   
 
-- ⚡ Fun fact: This is a ChatGPT generated Profile 😎  
+- ⚡ Fun fact: This is an auto generated Profile 😎  
   
 
 <br/>  
