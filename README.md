@@ -98,7 +98,7 @@
 </div>  
   
 
-## Recent Blog Posts  
+## Currently Playing on Spotify 
   
 
 <br/>  
