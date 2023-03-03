@@ -6,7 +6,7 @@
 ### <div align="center">I'm Animesh Okhade, a full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Blaze AI](https://github.com/chirag9127/retrera)  
+- 🔭 I’m currently working on SaaS products.
   
 
 - 🌱 I’m currently learning Scala and Apache Spark  
